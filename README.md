@@ -1,4 +1,4 @@
-# Parallax-Website
+# Parallax_Website
 
 A simple parallax scrolling website that creates a dynamic scrolling effect using only HTML and CSS.
 
